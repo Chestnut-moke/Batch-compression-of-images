@@ -26,7 +26,7 @@
    ```
 
 ### 方式二：使用可执行文件
-在 `dist/` 目录下找到 `image_compressor.exe`，直接双击即可运行（无需安装 Python）。
+在 `Releases` 中下载 `image_compressor.exe`，直接双击即可运行（无需安装 Python）。
 
 ## 🛠️ 技术栈
 - **语言**: Python 3
